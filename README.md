@@ -1,3 +1,13 @@
+##  Problem Statement
+
+The objective of this project is to evaluate whether daily financial news headlines can predict next-day market direction.
+
+Using historical DJIA news headlines (2008–2016), we build classical NLP models to determine whether aggregated daily headlines contain predictive signal for next-day index movement.
+
+The task is framed as a supervised binary classification problem:
+- 1 → Market Up
+- 0 → Market Down
+
 # stock-nlp-prediction
 Build a supervised binary classification model to predict whether TCS closing price at time t+1 is higher than at time t, using textual information available at time t.
 # This project shows:
