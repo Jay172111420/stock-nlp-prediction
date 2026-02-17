@@ -13,7 +13,7 @@ The task is framed as a supervised binary classification problem:
 
 ---
 
-## 🏗 Project Structure
+## Project Structure
 
 ---
 
